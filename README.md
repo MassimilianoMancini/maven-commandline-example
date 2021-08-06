@@ -1,0 +1,1 @@
+Example of using Maven from command line with version 1.4 of maven-archetype-quickstart
